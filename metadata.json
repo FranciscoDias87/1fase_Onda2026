@@ -1,0 +1,6 @@
+{
+  "name": "Hall of Fame - III ONAD",
+  "description": "Resultados da III Olimpíada Nacional de Astronomia Digital - CETI Moisaniel Alves de Sousa",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
