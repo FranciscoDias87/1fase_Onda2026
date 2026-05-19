@@ -165,7 +165,7 @@ export default function App() {
         <footer className="mt-32 text-center text-slate-500 space-y-6 pb-12">
           <div className="h-px w-24 bg-indigo-500/30 mx-auto" />
           <p className="text-sm font-light">
-            © 2024 CETI Moisaniel Alves de Sousa • Lagoinha do Piauí <br />
+            © 2026 CETI Moisaniel Alves de Sousa • Lagoinha do Piauí <br />
             Hall da Fama dos Resultados - III ONAD
           </p>
         </footer>
